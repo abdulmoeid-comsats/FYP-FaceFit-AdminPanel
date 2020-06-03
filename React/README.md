@@ -1,4 +1,4 @@
-# react-Admin-frontEnd
+# react-Admin-FrontEnd
 This is the view of admin Dashboard of facefit.
 
 
